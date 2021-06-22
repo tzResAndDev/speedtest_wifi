@@ -1,2 +1,7 @@
-# Speedtest_wifi
-1. Use speedtest-cli, matplotlib python module
+# Wi-fi速度測定スクリプト
+1. 仕様言語
+- python
+
+2. 仕様外部モジュール
+- matplotlib
+- speedtest-cli
